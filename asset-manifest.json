@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/shivakumarprojects/static/css/main.b452b6d4.css",
+    "main.js": "/shivakumarprojects/static/js/main.8863a748.js",
+    "static/js/787.0e31295a.chunk.js": "/shivakumarprojects/static/js/787.0e31295a.chunk.js",
+    "index.html": "/shivakumarprojects/index.html",
+    "main.b452b6d4.css.map": "/shivakumarprojects/static/css/main.b452b6d4.css.map",
+    "main.8863a748.js.map": "/shivakumarprojects/static/js/main.8863a748.js.map",
+    "787.0e31295a.chunk.js.map": "/shivakumarprojects/static/js/787.0e31295a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b452b6d4.css",
+    "static/js/main.8863a748.js"
+  ]
+}
